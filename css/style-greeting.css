@@ -1,6 +1,16 @@
 #greeting {
   text-align: center;
-  font-size: 5rem;
+  font-size: 2rem;
   color: #3bc9db;
   text-shadow: 1px 1px 1px gray;
+}
+
+#todo-input-box {
+  text-align: center;
+}
+#todo-input {
+  width: auto;
+  height: 50px;
+  font-size: 15px;
+  border-radius: 15px;
 }
